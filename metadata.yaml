@@ -1,11 +1,16 @@
 _repo: The-Wine-Press-and-the-Cellar-A-Manual-for-the-Wine-Maker-and-the-Cellar-Man_66524
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66524-h/images/cover.jpg
 creator:
   author:
     agent_name: Rixford, Emmet Hawkins
     gutenberg_agent_id: '53851'
     url: http://www.gutenberg.org/2009/agents/53851
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66524#The-Wine-Press-and-the-Cellar-A-Manual-for-the-Wine-Maker-and-the-Cellar-Man
 gutenberg_issued: '2021-10-12'
 identifiers:
   gutenberg: '66524'
